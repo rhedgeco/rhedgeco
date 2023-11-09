@@ -3,7 +3,7 @@
   ## Hello! I'm Ryan Hedgecock 👋
   
   Social Links<br>
-  [Personal Website](https://hedgecock.dev) -- [Linkedin](https://linkedin.com/rhedgeco)
+  [Personal Website](https://hedgecock.dev) -- [Linkedin](https://linkedin.com/in/rhedgeco)
   
 </div>
 
